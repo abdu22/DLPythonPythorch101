@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f127ea72-fcfc-403a-b2d8-99cfd2ec215a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/.idea/DeepLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/perceptron/AndPerceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/perceptron/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/perceptron/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/perceptron/perceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeepLearning/softmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/deep-learning-v2-pytorch/intro-neural-networks/gradient-descent/GradientDescent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/deep-learning-v2-pytorch/intro-neural-networks/student-admissions/StudentAdmissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/CreatingFilter_EdgeDetection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/conv_visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/data/bridge_trees_example.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/data/curved_lane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/data/sobel_ops.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/data/udacity_sdc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/data/white_lines.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNN/maxpooling_visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/1_MatrixMultiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/2_testFirstPyTorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/3_NeuralNetwork_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/3_NeuralNetwork_nn_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/4_TrainNeuralNetwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/4_TrainNeuralNetwork_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/5_FashionMNIST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/6_InferenceAndValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/7_LoadingImageData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/7_TransferLearning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/Classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/my_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/nn_module_with_relu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/nn_module_with_sigmoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyTorch/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/ecommerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/ecommerce/shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/panda_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/pythonBasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/test_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python101/utility.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../DeepLearning" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2eRWypTHuMy1ZrhdV3pICB05iHZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.panda_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_random.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python101" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.panda_examples">
+    <configuration name="arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python101" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python101/arrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python101" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python101/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="panda_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python101" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python101/panda_examples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.panda_examples" />
+        <item itemvalue="Python.arrays" />
+        <item itemvalue="Python.exercise (1)" />
+        <item itemvalue="Python.exercise" />
+        <item itemvalue="Python.class" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f127ea72-fcfc-403a-b2d8-99cfd2ec215a" name="Changes" comment="" />
+      <created>1711868127359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711868127359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Projects/deep-learning-v2-pytorch/intro-neural-networks/gradient-descent/GradientDescent.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Projects/deep-learning-v2-pytorch/intro-neural-networks/gradient-descent/GradientDescent.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
